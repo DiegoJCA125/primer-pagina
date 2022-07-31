@@ -1,2 +1,2 @@
-# primer pagina en bloc
-primera pagina web
+# primer pagina 
+Piedra, papel y tijera 
