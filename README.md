@@ -1,2 +1,2 @@
 # primer pagina 
-Piedra, papel y tijera 
+Piedra, papel y tijera con returno y aleatoriedad
